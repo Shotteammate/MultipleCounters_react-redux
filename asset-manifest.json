@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MultipleCounters_react-redux/static/css/main.b100e6da.chunk.css",
+    "main.js": "/MultipleCounters_react-redux/static/js/main.90002ebc.chunk.js",
+    "main.js.map": "/MultipleCounters_react-redux/static/js/main.90002ebc.chunk.js.map",
+    "runtime-main.js": "/MultipleCounters_react-redux/static/js/runtime-main.353022d8.js",
+    "runtime-main.js.map": "/MultipleCounters_react-redux/static/js/runtime-main.353022d8.js.map",
+    "static/js/2.6d62b838.chunk.js": "/MultipleCounters_react-redux/static/js/2.6d62b838.chunk.js",
+    "static/js/2.6d62b838.chunk.js.map": "/MultipleCounters_react-redux/static/js/2.6d62b838.chunk.js.map",
+    "index.html": "/MultipleCounters_react-redux/index.html",
+    "precache-manifest.6076dd1cc85626a0cab00bbdc007c9db.js": "/MultipleCounters_react-redux/precache-manifest.6076dd1cc85626a0cab00bbdc007c9db.js",
+    "service-worker.js": "/MultipleCounters_react-redux/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/MultipleCounters_react-redux/static/css/main.b100e6da.chunk.css.map"
+  }
+}
